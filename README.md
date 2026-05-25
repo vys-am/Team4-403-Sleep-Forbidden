@@ -13,6 +13,7 @@ draft
 ```
 
 # 2. Описание задачи
+[Соревнование в kaggle](https://www.kaggle.com/competitions/chem-ai-predict-the-cure/overview)
 
 ## **Overview**
 
