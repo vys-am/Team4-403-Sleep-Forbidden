@@ -12,15 +12,14 @@
 
 # 1. Команда
 
-## Иван Кириян - тимлид | Трек Data Science
+| Участник | Роль | Трек |
+|----------|------|------|
+| **Иван Кириян** | Тимлид | Data Science |
+| **Артём Петехов** | Участник | Data Engineering |
+| **Ярослава Антошина** | Участник | Data Science |
+| **Антон Высоцкий** | Участник | Data Science |
+| **Наталья Рогозенко** | Участник | Data Science |
 
-## Артём Петехов | Трек Data Engeniering
-
-## Ярослава Антошина | Учится на треке Data Science
-
-## Антон Высоцкий | Учится на треке Data Science
-
-## Наталья Рогозенко | Учится на треке Data Science
 
 # 2. Описание задачи
 [Соревнование в kaggle](https://www.kaggle.com/competitions/chem-ai-predict-the-cure/overview)
