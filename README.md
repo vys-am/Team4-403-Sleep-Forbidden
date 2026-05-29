@@ -10,6 +10,11 @@
 - [5) Обучение](#5-обучение-моделей)
 - [6) Каггл-скор](#6-каггл-скор)
 
+## Видеовыступление
+[![Видеовыступление](images/video_preview.png)](https://disk.yandex.ru/d/B47JMdoQdpdQHA) 
+
+Еще видеовыступление можно скачать [тут](https://disk.yandex.ru/d/B47JMdoQdpdQHA)
+
 # 1. Команда
 
 | Участник | Роль | Трек |
@@ -18,8 +23,7 @@
 | **Артём Петехов** | Участник | Data Engineering |
 | **Ярослава Антошина** | Участник | Data Science |
 | **Антон Высоцкий** | Участник | Data Science |
-| **Наталья Рогозенко** | Участник | Data Science |
-
+| **Наталья Рогозенко** | Участник | Data Science |  
 
 # 2. Описание задачи
 [Соревнование в kaggle](https://www.kaggle.com/competitions/chem-ai-predict-the-cure/overview)
