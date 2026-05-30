@@ -47,10 +47,10 @@ test.csv — 250 объектов, для которых необходимо с
 
 <table>
 <tr>
-<td width="30%">
-<img src="URL_ВАШЕЙ_КАРТИНКИ.png" alt="Описание" width="100%">
+<td width="50%">
+<img src="images/rdme/groups_feature2.png" alt="Описание" width="100%">
 </td>
-<td width="70%">
+<td width="50%">
 <ul>
 <li>Первый пункт с важной информацией.</li>
 <li>Второй пункт с описанием фич.</li>
