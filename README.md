@@ -37,9 +37,9 @@
     <td align="center"><b>SI (Selectivity Index) — индекс селективности</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="images/rdme/1_ic50_big.png" width="100" alt="ic50"></td>
-    <td align="center"><img src="images/rdme/2_cc50_big.png" width="100" alt="cc50"></td>
-    <td align="center"><img src="images/rdme/3_si_big.png" width="100" alt="si"></td>
+    <td align="center"><img src="images/rdme/1_ic50_big.png" width="100%" alt="ic50"></td>
+    <td align="center"><img src="images/rdme/2_cc50_big.png" width="100%" alt="cc50"></td>
+    <td align="center"><img src="images/rdme/3_si_big.png" width="100%" alt="si"></td>
   </tr>
 </table>
 
