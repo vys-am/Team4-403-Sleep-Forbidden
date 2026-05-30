@@ -30,6 +30,10 @@
 
 ## Для каждого химического соединения необходимо предсказать три показателя:
 
+![1_ic50](images/rdme/1_ic50.png)
+![2_cc50](images/rdme/2_cc50.png)
+![3_si](images/rdme/3_si.png)
+
 IC50 (mM) — концентрация, при которой вещество подавляет 50% активности вируса  
 CC50 (mM) — концентрация, при которой вещество токсично для 50% клеток  
 SI (Selectivity Index) — индекс селективности  
@@ -37,6 +41,8 @@ SI (Selectivity Index) — индекс селективности
 В соревновании используются данные о 1000 химических соединениях, описанных с помощью числовых молекулярных дескрипторов.
 
 ## Данные разделены на:
+
+![lines_in_datasets](images/rdme/lines_in_datasets.png)
 
 train.csv — 750 объектов с известными значениями целевых переменных  
 test.csv — 250 объектов, для которых необходимо сделать предсказания  
@@ -52,12 +58,12 @@ test.csv — 250 объектов, для которых необходимо с
 </td>
 <td width="50%">
 <ol>
-<li>1. Общие молекулярные свойства (MolWt, ExactMolWt, HeavyAtomMolWt, NumValenceElectrons, NumRadicalElectrons, MolLogP, MolMR, TPSA, LabuteASA,...)</li>
-<li>2. Электронные и зарядовые характеристики (MaxPartialCharge, MinPartialCharge, MaxAbsPartialCharge, MinAbsPartialCharge, PEOE_VSA* — дескрипторы, связанные с распределением электронной плотности)</li>
-<li>3. Топологические и структурные дескрипторы (Chi*, Kappa*, BalabanJ, BertzCT, HallKierAlpha, Ipc, FractionCSP3, RingCount, ...)</li>
-<li>4. Поверхностные дескрипторы (VSA) (SMR_VSA*, SlogP_VSA*, EState_VSA*, VSA_EState*, ...)</li>
-<li>5. Функциональные группы (fr_*) (Бинарные признаки, отражающие наличие различных химических групп: fr_alkyl_halide, fr_ester, fr_ether, fr_ketone, fr_benzene, fr_pyridine, fr_imidazole, fr_amide, fr_amine, fr_nitro, fr_halogen и многие другие)</li>
-<li>6. Специфические дескрипторы (EState индексы (MaxEStateIndex, MinEStateIndex и др.), BCUT2D_* — спектральные дескрипторы, FpDensityMorgan* — плотности молекулярных отпечатков.</li>
+<li>Общие молекулярные свойства (MolWt, ExactMolWt, HeavyAtomMolWt, NumValenceElectrons, NumRadicalElectrons, MolLogP, MolMR, TPSA, LabuteASA,...)</li>
+<li>Электронные и зарядовые характеристики (MaxPartialCharge, MinPartialCharge, MaxAbsPartialCharge, MinAbsPartialCharge, PEOE_VSA* — дескрипторы, связанные с распределением электронной плотности)</li>
+<li>Топологические и структурные дескрипторы (Chi*, Kappa*, BalabanJ, BertzCT, HallKierAlpha, Ipc, FractionCSP3, RingCount, ...)</li>
+<li>Поверхностные дескрипторы (VSA) (SMR_VSA*, SlogP_VSA*, EState_VSA*, VSA_EState*, ...)</li>
+<li>Функциональные группы (fr_*) (Бинарные признаки, отражающие наличие различных химических групп: fr_alkyl_halide, fr_ester, fr_ether, fr_ketone, fr_benzene, fr_pyridine, fr_imidazole, fr_amide, fr_amine, fr_nitro, fr_halogen и многие другие)</li>
+<li>Специфические дескрипторы (EState индексы (MaxEStateIndex, MinEStateIndex и др.), BCUT2D_* — спектральные дескрипторы, FpDensityMorgan* — плотности молекулярных отпечатков.</li>
 </ol>
 </td>
 </tr>
